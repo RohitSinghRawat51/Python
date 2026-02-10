@@ -1,4 +1,4 @@
-LECT-1:
+DAY-1:
 Python was developed by Guido Van Rosum in 1991
 It is a High Level Language -easily understandable, similar to english, human readable
 Python is a general purpose programming language - versatality
